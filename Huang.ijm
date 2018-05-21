@@ -1,5 +1,5 @@
 run("8-bit");
-setAutoThreshold("Li");
+setAutoThreshold("Huang");
 //run("Threshold...");
 //setThreshold(5, 255);
 setOption("BlackBackground", false);
